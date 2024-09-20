@@ -10,7 +10,7 @@ const Home = () => {
         {/* title  */}
         <div className="w-full px-3 mb-8 ">
           <h1 className="text-amber-50 text-[44px] leading-10 mb-8 ">
-            Hi, I'm a <span className="text-amber-300 font-bold ">FullStack Developer</span>
+            Hi, I'm a <span className="text-amber-300 font-bold ">Frontend Developer</span>
           </h1>
           <p className="text-amber-50 text-lg mb-4 md:w-full">
           I'm passionate about creating engaging web applications with React and Tailwind CSS, focusing on intuitive user interfaces for seamless digital experiences.
