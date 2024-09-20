@@ -5,7 +5,7 @@ import SocialLinks from './component/SocialLinks'
 import About from './component/About'
 import Projects from './component/Projects'
 import Experience from './component/Experience'
-import Form from './component/form'
+import Form from './component/Form'
 
 const App = () => {
   return (
